@@ -6,12 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 # Science Intrests
-[Retrospective Lineage Tracing in Humans](https://doi.org/10.1016/j.crmeth.2021.100054))
-Single Cell Genomics
-Long Read Sequecing
-Oncology Mutation Discovery
-AI/ML Application in Clinical Data
+## [Retrospective Lineage Tracing in Humans](https://doi.org/10.1016/j.crmeth.2021.100054)
+## Single Cell Trasncriptomics and Mutation (Patent Pending)
+## Single Cell Long Read Sequecing (Manuscript in Prep)
+## 
+## AI/ML Application in Clinical Data
 
 A data-driven personal website
 ======
