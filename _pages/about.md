@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tao's personal websites"
+title: "Welcome to my page! Still working on it..."
 author_profile: true
 redirect_from: 
   - /about/
